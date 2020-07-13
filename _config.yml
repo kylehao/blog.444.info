@@ -7,7 +7,7 @@ description: "枕边听松语，槛外看潮生。"
 keyword: "BY, BY Blog, 听松阁, blog.4y.gs, 美文, 古典诗词"
 url: "http://blog.4y.gs"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/kylehao/blog.4y.gs.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -62,11 +62,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: 12a772e984f2d8be2250                            #生成的clientID
+  clientSecret: 8b1e7c162fabadf142bbeb6c31ceed22416ddd4a    #生成的clientSecret
+  repo: blog.4y.gs    #仓库名称
+  owner: kylehao    #github用户名
+  admin: kylehao
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -99,16 +99,40 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "诗词",
+        href: "https://www.free163.com"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "相册",
+        href: "https://photo.free163.com/"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "博客",
+        href: "https://blog.free163.com/"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "电影",
+        href: "https://dy.free163.com/"
+    },{
+        title: "下载",
+        href: "https://down.free163.com/"
+    },{
+        title: "音乐",
+        href: "https://mp3.free163.com/"
+    },{
+        title: "网盘",
+        href: "https://pan.free163.com/"
+    },{
+        title: "邮局",
+        href: "https://mail.free163.com/"
+    },{
+        title: "德云社",
+        href: "http://dys.orgx.gq/"
+    },{
+        title: "谦道",
+        href: "http://dys.orgx.gq/qd/"
+    },{
+        title: "郭论",
+        href: "http://dys.orgx.gq/gl/"
+    },{
+        title: "农场",
+        href: "https://my.4y.gs/"
     }
 ]
