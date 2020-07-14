@@ -62,9 +62,9 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 56f65ce5e8da75e12655                            #生成的clientID
-  clientSecret: d666ac67ff2a6c7921bdea6be38a3db07cb424f8    #生成的clientSecret
-  repo: blog.4y.gs    #仓库名称
+  clientID: fe1f9391b962be96b6a9                            #生成的clientID
+  clientSecret: ba788ca5f4cfb65e15cffd815b5147b6770fb779    #生成的clientSecret
+  repo: blog.4y.gs_gitslk    #仓库名称
   owner: kylehao    #github用户名
   admin: kylehao
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
